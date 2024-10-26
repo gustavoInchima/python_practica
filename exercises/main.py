@@ -1,9 +1,9 @@
-from exercise1 import *
-from exercise2 import *
-from exercise3 import *
-from exercise4 import *
-from exercise7 import *
-from exercise8 import guess_age
+from solutions.exercise1 import *
+from solutions.exercise2 import *
+from solutions.exercise3 import *
+from solutions.exercise4 import *
+from solutions.exercise7 import *
+from solutions.exercise8 import guess_age
 
 # Esta base de datos está organizada como una lista de tuplas
 '''
@@ -36,7 +36,7 @@ Ejercicio 1: Calcular el nivel medio del equipo (1 Punto)
 Escribe una función que calcule el nivel medio del equipo, devolviendo la parte entera.
 """
 
-# print(average_active_character_levels_for(personajes_principales))
+#print(average_active_character_levels_for(personajes_principales))
 # print(average_levels_for(personajes_principales))
 # print(average_list(personajes_principales))
 # print(average_compact(personajes_principales))
